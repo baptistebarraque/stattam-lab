@@ -1,0 +1,6 @@
+ipykernel
+nbconvert
+requests
+torch
+pandas
+tam
